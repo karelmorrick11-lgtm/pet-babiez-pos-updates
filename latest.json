@@ -1,6 +1,6 @@
 {
-    "version": "2.0.1",
-    "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.1/PetBabiezPOS-Setup-2.0.1.exe",
-    "installer_sha256": "3DF689F14E600DB1FBBECC433549FB25A20D6F01BC5378227C8F4A8F78F5B647",
-    "release_notes": "Pet Babiez POS 2.0.1 - First release supporting the automatic update system."
+    "version": "2.0.2",
+    "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.2/PetBabiezPOS-Setup-2.0.2.exe",
+    "installer_sha256": "EB61CFCC95E22B885BE322E130681245B612E8552DB2D72E5E24D8A2AC827E3B",
+    "release_notes": "Pet Babiez POS 2.0.2 - Automatic update system test release."
 }
