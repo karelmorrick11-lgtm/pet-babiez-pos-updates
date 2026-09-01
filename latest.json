@@ -1,6 +1,6 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.0",
     "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.0/PetBabiezPOS-Setup-2.0.0.exe",
-    "installer_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-    "release_notes": "Testing failed SHA-256 verification."
+    "installer_sha256": "F044E5EAC45100184208784F90DD8D5320403705BD27D0A6C47884DB82782605",
+    "release_notes": "Initial Pet Babiez POS 2.0 release."
 }
