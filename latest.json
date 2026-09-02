@@ -1,6 +1,6 @@
 {
     "version": "2.0.6",
-    "download_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.6/PetBabiezPOS-Setup-2.0.6.exe",
-    "sha256": "C22F256EA8C8EE3BADC7FDFE9540911C07F67327972E1B87D0EB770D5BF39D56",
-    "notes": "Pet Babiez POS 2.0.6 - Automatic updater final restart fix. Prevents Pet Babiez POS from opening twice after an automatic update."
+    "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.6/PetBabiezPOS-Setup-2.0.6.exe",
+    "installer_sha256": "C22F256EA8C8EE3BADC7FDFE9540911C07F67327972E1B87D0EB770D5BF39D56",
+    "release_notes": "Pet Babiez POS 2.0.6 - Automatic updater final restart fix. Prevents Pet Babiez POS from opening twice after an automatic update."
 }
