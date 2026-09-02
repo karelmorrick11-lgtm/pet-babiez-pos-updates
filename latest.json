@@ -1,6 +1,6 @@
 {
-  "version": "2.0.8",
-  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.8/PetBabiezPOS-Setup-2.0.8.exe",
-  "installer_sha256": "83363CC0189EF98252C204376DB6146861F1322D61CCF66C962B93FEFFB75B0D",
-  "release_notes": "Pet Babiez POS 2.0.8 - New Dashboard Software Update system. Updates are now shown on the Dashboard and installed manually by the user. Includes background downloading, SHA-256 verification and improved update reliability."
+  "version": "2.0.9",
+  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.9/PetBabiezPOS-Setup-2.0.9.exe",
+  "installer_sha256": "AFE2B5E1B8CD35A241FA822B03996D34516D71B69A6F764AFAC0453E4B0F6C59",
+  "release_notes": "Pet Babiez POS 2.0.9 - Dashboard Software Update test release. This release tests the new manual Dashboard update system."
 }
