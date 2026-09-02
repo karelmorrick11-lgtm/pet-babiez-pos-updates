@@ -1,6 +1,6 @@
 {
-    "version": "2.0.7",
-    "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.7/PetBabiezPOS-Setup-2.0.7.exe",
-    "installer_sha256": "A85C7BB9D086EABA3867DDFD97EB9F885ED3CDA5C79EA219759C8CCA84C9EE30",
-    "release_notes": "Pet Babiez POS 2.0.7 - Automatic updater queue handling fix. Fixes the update handoff so the POS closes correctly after the updater helper has started."
+  "version": "2.0.8",
+  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.8/PetBabiezPOS-Setup-2.0.8.exe",
+  "installer_sha256": "83363CC0189EF98252C204376DB6146861F1322D61CCF66C962B93FEFFB75B0D",
+  "release_notes": "Pet Babiez POS 2.0.8 - New Dashboard Software Update system. Updates are now shown on the Dashboard and installed manually by the user. Includes background downloading, SHA-256 verification and improved update reliability."
 }
