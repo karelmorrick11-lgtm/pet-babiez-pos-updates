@@ -1,6 +1,6 @@
 {
-  "version": "2.0.9",
-  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.9/PetBabiezPOS-Setup-2.0.9.exe",
-  "installer_sha256": "AFE2B5E1B8CD35A241FA822B03996D34516D71B69A6F764AFAC0453E4B0F6C59",
-  "release_notes": "Pet Babiez POS 2.0.9 - Dashboard Software Update test release. This release tests the new manual Dashboard update system."
+  "version": "2.0.10",
+  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.10/PetBabiezPOS-Setup-2.0.10.exe",
+  "installer_sha256": "02AF1BD409188196E434066F21E8BDB576B50296A96FF0514922985BA879EF69",
+  "release_notes": "Pet Babiez POS v2.0.10: Improved Daily Cash-Up system, opening float and closing cash reconciliation, cash variance calculations, cash-up history/reports/details, back-dated sales support, sales and till tracking, stock take functionality, and Print Stock Sheet."
 }
