@@ -1,6 +1,6 @@
 {
-  "version": "2.0.10",
-  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.10/PetBabiezPOS-Setup-2.0.10.exe",
-  "installer_sha256": "02AF1BD409188196E434066F21E8BDB576B50296A96FF0514922985BA879EF69",
-  "release_notes": "Pet Babiez POS v2.0.10: Improved Daily Cash-Up system, opening float and closing cash reconciliation, cash variance calculations, cash-up history/reports/details, back-dated sales support, sales and till tracking, stock take functionality, and Print Stock Sheet."
+  "version": "2.0.11",
+  "installer_url": "https://github.com/karelmorrick11-lgtm/pet-babiez-pos-updates/releases/download/v2.0.11/PetBabiezPOS-Setup-2.0.11.exe",
+  "installer_sha256": "30DB87B08C82C3BDB53D1932097F0BCBB84651F69CDA320F2D8FA9320ACE0651",
+  "release_notes": "Pet Babiez POS v2.0.11 adds the complete Special Orders workflow, customer-linked Special Orders, Special Order status tracking, Customer Price List, separate PDF/customer branding, customer selection in Daily Sales, delivery fees, improved cash payment handling, improved Daily Cash-Up, historical receipt snapshots, Stock Take improvements, and general stability improvements."
 }
